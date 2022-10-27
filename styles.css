@@ -5,11 +5,6 @@ body {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-/* h2 {
-  text-align: right;
-  color: white;
-  margin-top: 70px;
-} */
 .app-body {
   text-align: center;
   background-color: #282c34;
@@ -74,9 +69,6 @@ h2, h3 {
 }
 ul {
   display: flex;
-  /* justify-content: center;
-  align-items: center;
-  height: 100vh; */
   margin: 0;
   padding: 0; 
 }
